@@ -3,13 +3,15 @@
 }
 .title{
     text-align: center;
-    font-size: 60px;
+    font-size: 55px;
     font-weight: bold;
+    font-family: serif;
 }
 .subtitle{
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 100;
+    font-family:monospace;
 }
 .img{
     align-content: center;
